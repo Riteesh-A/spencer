@@ -133,6 +133,12 @@ export const navItems: NavItem[] = [
     label: 'transaction'
   },
   {
+    title: 'Portfolio',
+    href: '/portfolio',
+    icon: 'portfolio',
+    label: 'portfolio'
+  },
+  {
     title: 'Profile',
     href: '/profile',
     icon: 'profile',
